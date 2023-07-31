@@ -1,6 +1,7 @@
 # CineFlix
 
 Description: Movies/TV Shows Database
+
 • Developed a captivating, fully responsive Movies/TV Shows
 Database
 .
